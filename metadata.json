@@ -1,0 +1,8 @@
+{
+  "name": "SERA ACADEMY",
+  "description": "SERA ACADEMY — Online course selling and private learning platform with manual bKash & Nagad payment verification, private video classroom, and mandatory Telegram & WhatsApp community gating.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
